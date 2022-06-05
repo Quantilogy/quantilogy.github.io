@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "quantilogy.github.io"
+  title: "quantilogy.com"
   navbar:
     background: primary
     left:
