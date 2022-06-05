@@ -1,5 +1,5 @@
 ---
-title: "quantilogy.github.io"
+title: "Quantilogy"
 ---
 
 This is a Quarto website.
